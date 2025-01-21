@@ -1,0 +1,17 @@
+.web{
+    color: green;
+    text-decoration: none;
+    
+}
+.web:hover{
+    color: blue;
+    text-decoration: underline;
+}  
+.web:active{
+    color: violet;
+    text-decoration: underline;
+}
+.web:visited{
+    color: red;
+    text-decoration: none;
+}
